@@ -1,10 +1,10 @@
-# AI-powered Privacy Impact Assessment Tool
+# ai-powered-privacy-impact-assessment-tool
 
-Automate privacy impact assessments and control mapping.
+## Detailed Description
 
 ## Vertical
 
-ai
+## Problem Statement
 
 ## Production MVP Deliverables
 
